@@ -121,7 +121,7 @@
 							Supported Release: {item.supported_current_release}
 						</a>
 					{/if}
-					<a href={"https://openwrt.org" + item.device_page} class="underline text-cyan-500">
+					<a href={"https://openwrt.org/" + item.device_page} class="underline text-cyan-500">
 						Device Page
 					</a>
 				</div>
